@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "BLACK_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "RBDSMP.aternos.me",
+    "port": 20526,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I AM BLACK",
+        "MADE BY SHUBHAM",
+        "I LIKE REM AND EMILLA BTW",
+        "stairauramonster IS DA REAL GOAT"
       ]
     },
     "chat-log": true,
@@ -59,7 +60,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
