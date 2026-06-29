@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BLACK_BOT46523",
+    "username": "BLACK_BOT",
     "password": "",
     "type": "offline"
   },
@@ -29,25 +29,27 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
         "I AM BLACK",
         "MADE BY SHUBHAM",
         "I LIKE REM AND EMILLA BTW",
-        "stairauramonster IS DA REAL GOAT"
+        "STAIRAURAMONSTER IS DA REAL GOAT",
+        "STAIRS",
+        "HAPPY BIRTHDAY DANEIL"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 15000,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 5,
+      "speed": 2000
     },
     "look-around": {
       "enabled": true,
@@ -60,8 +62,8 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": false,
-    "beds": false,
+    "combat": true,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -70,8 +72,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
