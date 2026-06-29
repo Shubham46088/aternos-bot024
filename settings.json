@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "SoloPlayz"
+      "enabled": true,
+      "password": "SHUBHAM123"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,14 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I AM BLACK",
-        "MADE BY SHUBHAM",
-        "I LIKE REM AND EMILLA BTW",
-        "STAIRAURAMONSTER IS DA REAL GOAT",
-        "STAIRS",
-        "HAPPY BIRTHDAY DANEIL"
+          "24/7 BOT MADE BY SHUBHAM"
       ]
     },
     "chat-log": true,
