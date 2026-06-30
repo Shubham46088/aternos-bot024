@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 300,
       "messages": [
           "24/7 BOT MADE BY SHUBHAM"
@@ -59,7 +59,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
@@ -67,8 +67,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
@@ -80,6 +80,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
