@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RBDSMP.aternos.me",
+    "ip": "RBDSMPXDNGA.aternos.me",
     "port": 20526,
     "version": "1.20.1",
     "try-creative": false
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SHUBHAM123"
     },
     "anti-afk": {
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 300,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 600,
       "messages": [
           "24/7 BOT MADE BY SHUBHAM"
       ]
@@ -58,8 +58,8 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
-    "chat": false,
+    "beds": false,
+    "chat": true,
     "console-commands": true
   },
   "combat": {
@@ -76,7 +76,7 @@
     "events": {
       "connect": true,
       "disconnect": false,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
