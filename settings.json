@@ -29,9 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 90,
       "messages": [
-          "24/7 BOT MADE BY SHUBHAM"
+          "DREAM IS NOOB",
+        "DREAM IS SCAMMER",
+        "SHUBHAM IS BETTER THAN DREAM"
       ]
     },
     "chat-log": true,
